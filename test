@@ -1,0 +1,116 @@
+{
+    "version": "1.0",
+    "sourceName": "少年歌行PRO软件收藏源",
+    "sourceAuthor": "公众号：少年歌行PRO",
+    "sourceLinkTitle": "欢迎使用",
+    "sourceLinkUrl": "https://www.shao.gq/archives/62",
+    "sourceImage": "https://www.meitudou.cn/pic/logo.jpg",
+    "sourceUpdateTime": "2020-1-29T8:00:00+0800", 
+    "sourceDescription": "本源为收藏的各种经典app，均未签名，如使用需越狱配合appsync（选择安装即可），或购买gbox自签服务(选择签名即可)",
+    "appCategories": [
+        "越狱工具（有证书）",
+		"实用工具",
+		"司机福利",
+		"破解游戏"
+    ],
+    "appRepositories": [
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-1-29T08:00:00+0800",
+            "appName": "大鱼视频共享版",
+            "appVersion": "1.0",
+            "appImage": "https://dss0.baidu.com/73F1bjeh1BF3odCf/it/u=3209189277,672401317&fm=85&s=EDB58B525745930D2E9BDBFE0300801D",
+            "appPackage": "https://www.meitudou.cn/ipa/dayu.ipa",
+            "appDescription": "大鱼视频旧版，无签名，配合appsync或购买gbox会员服务"
+        },
+		
+		{
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-1-29T08:00:00+0800",
+            "appName": "pythonista3共享版",
+            "appVersion": "1.0",
+            "appImage": "https://ask.qcloudimg.com/http-save/developer-news/99dmwgjy3a.jpeg?imageView2/2/w/1620",
+            "appPackage": "https://www.meitudou.cn/app/Pythontista3.ipa",
+            "appDescription": "pythonista3 旧版，无签名，配合appsync或购买gbox会员服务"
+        },
+		
+		{
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-1-29T08:00:00+0800",
+            "appName": "KODI 64位 Leia",
+            "appVersion": "LEIA",
+            "appImage": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1498541706,2920358565&fm=26&gp=0.jpg",
+            "appPackage": "https://www.meitudou.cn/ipa/Kodi_Leia_64bit.ipa",
+            "appDescription": "Kodi播放器64位 Leia版，无签名，配合appsync或购买gbox会员服务"
+        },
+		
+		{
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-1-29T08:00:00+0800",
+            "appName": "KODI 64位 Krypton",
+            "appVersion": "LEIA",
+            "appImage": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1498541706,2920358565&fm=26&gp=0.jpg",
+            "appPackage": "https://www.meitudou.cn/ipa/Kodi_Krypton_64bit.ipa",
+            "appDescription": "Kodi播放器64位 krypton版，无签名，配合appsync或购买gbox会员服务"
+        },
+		
+		{
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-1-29T08:00:00+0800",
+            "appName": "KODI 32位 Krypton",
+            "appVersion": "LEIA",
+            "appImage": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1498541706,2920358565&fm=26&gp=0.jpg",
+            "appPackage": "https://www.meitudou.cn/ipa/Kodi_Krypton_32bit.ipa",
+            "appDescription": "Kodi播放器32位 krypton版，无签名，配合appsync或购买gbox会员服务"
+        },
+		
+		{
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2020-1-29T08:00:00+0800",
+            "appName": "番茄社区破解版",
+            "appVersion": "1.0",
+            "appImage": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1741359843,3394588863&fm=26&gp=0.jpg",
+            "appPackage": "https://www.meitudou.cn/ipa/fanqieshequ712.ipa",
+            "appDescription": "番茄社区破解版，无限观影，直连比较卡，无签名，配合appsync或购买gbox会员服务"
+        },
+		
+		{
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-2-16T08:00:00+0800",
+            "appName": "Unc0ver 越狱工具",
+            "appVersion": "4.0.0",
+            "appImage": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=10011479,2398124178&fm=26&gp=0.jpg",
+            "appPackage": "https://www.meitudou.cn/app/unc0ver4.ipa",
+            "appDescription": "un最新版越狱工具，支持A12+A13到13.3，速下"
+        },
+        
+        	{
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2020-1-30T08:00:00+0800",
+            "appName": "bika漫画",
+            "appVersion": "1.0",
+            "appImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1580366856629&di=f8b960215374591d24da20a2a356b440&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2F450b4c83789784538673bb90195c59edff7cf56e69f80-ckcYo1_fw658",
+            "appPackage": "https://www.meitudou.cn/ipa/bikamanhua.ipa",
+            "appDescription": "哔咔漫画旧版，没证书，配合appsync或购买gbox会员服务"
+        },
+        
+        	{
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2020-1-30T08:00:00+0800",
+            "appName": "黄瓜视频破解版",
+            "appVersion": "1.1.0",
+            "appImage": "http://img0.imgtn.bdimg.com/it/u=3034564954,2284431306&fm=26&gp=0.jpg",
+            "appPackage": "https://www.meitudou.cn/ipa/%E9%BB%84%E7%93%9C%E8%A7%86%E9%A2%91%E2%80%A21.1.0.ipa",
+            "appDescription": "黄瓜视频破解版，没证书，7loopy作品，配合appsync或购买gbox会员服务"
+        },
+    ]
+}
